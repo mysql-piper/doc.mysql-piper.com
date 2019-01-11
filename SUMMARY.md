@@ -1,6 +1,6 @@
 # Summary
 
-* [前言](README.md)
+* [MySQL-piper是什么?](README.md)
 * [功能预览](Chapter1/功能预览.md)
 * [开发文档](Chapter2/README.md)
     * [简介](Chapter2/简介.md)
